@@ -2,6 +2,8 @@
 
 Projeto - site de receitas
 
+Clique aqui para ver o projeto:
+
 ## 🛠️ Tecnologias:
 
 - HTML e CSS
