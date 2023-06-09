@@ -1,4 +1,4 @@
-# projetosAleatorios-receita
+# Projeto Aletatórios : Site de Receitas
 
 Projeto - site de receitas
 
